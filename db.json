@@ -1,12 +1,12 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
+  "profiles": [
+    { "name": "Edward", "description": {"stong", "clever", "high-ranked" },
+    { "name": "Robert", "description": {"fool", "high-ranked", "boring" },
+    { "name": "Krab", "description": {"strong", "great", "lazy" }
   ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
+  "other": [
+    { "id": 1, "body": "создан ради веселья", "postId": 55 },
+    { "id": 2, "body": "funny create", "postId": 4 }
   ],
   "profile": {
     "name": "typicode"
